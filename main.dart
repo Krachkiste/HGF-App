@@ -1,4 +1,4 @@
-/// @author Saur-Bek saur-bek.asev-ajiyev@hardnebrg-gymnasium.schule
+/// @author Saur-Bek saur-bek.asev-ajiyev@hardenberg-gymnasium.schule
 /// @version 0.7 (stable)
 
 import 'dart:convert';
