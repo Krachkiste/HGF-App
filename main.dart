@@ -1,4 +1,4 @@
-/// @author Saur-Bek saur-bek.asev-ajiyev@hardenberg-gymnasium.schule
+/// @author Saur-Bek saur-bek.asev-ajiyev@hardnebrg-gymnasium.schule
 /// @version 0.7 (stable)
 
 import 'dart:convert';
@@ -596,16 +596,8 @@ class _PasswordsState extends State<Passwords>{
 
   TextEditingController dsbpass = new TextEditingController();
 
-  Future<SharedPreferences> prefs = SharedPreferences.getInstance();
-
-  void getTruth() async{
-
-  }
-
   @override
   Widget build(BuildContext context){
-
-    getTruth();
 
     if(reset){
       iservusr.text = iservuser;
